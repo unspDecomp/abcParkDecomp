@@ -6,9 +6,9 @@ PROGRAM_NAME = AlphabetParkAdventure
 
 IDEDIR       = C://Program Files (x86)/GeneralPlus/unSPIDE_4.0.7
 
-BUILDSRCDIR  = build/src
-BUILDINFODIR = build/buildInfo
-OUTDIR       = build/out
+BUILDSRCDIR  = buildSrc
+BUILDINFODIR = buildInfo
+OUTDIR       =
 SRCDIR       = src
 
 CC = wine "$(IDEDIR)/toolchain/gcc.exe"

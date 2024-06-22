@@ -1,6 +1,6 @@
-build/src/*.c.asm
-build/src/*.obj
 .DS_Store
+*.c.asm
+*.obj
 *.map
 *.sbm
 *.smy
