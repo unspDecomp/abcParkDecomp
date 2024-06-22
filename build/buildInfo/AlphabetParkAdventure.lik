@@ -1,0 +1,8 @@
+Version: 1.10
+Options: tsk
+Output: "AlphabetParkAdventure.tsk"
+Obj: "build\src\isr.obj"
+Obj: "build\src\main.obj"
+Locate: CODE in "build\src\isr.obj" at 8000
+Locate: CODE in "build\src\main.obj" at 8500
+Locate: TEXT at 9000

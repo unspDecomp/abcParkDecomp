@@ -1,0 +1,9 @@
+build/src/*.c.asm
+build/src/*.obj
+.DS_Store
+*.map
+*.sbm
+*.smy
+*.sym
+*.tsk
+*.bin
